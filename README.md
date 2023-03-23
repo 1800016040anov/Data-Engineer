@@ -13,7 +13,7 @@ sync the database configuration
 
 additional notes: 
 - i call  all csv file on the data folder
-- data profiling is is a folder to store the result of analysis using pandas profiling 
+- data profiling is a folder to store the result of analysis using pandas profiling 
 - for sql output here i attach a file because the size problem,
 - use .py in script for more refined used
 
